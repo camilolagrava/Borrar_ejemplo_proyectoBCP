@@ -1,0 +1,6 @@
+@Borrar_BCP_CL_2_HostAddress = http://localhost:5010
+
+GET {{Borrar_BCP_CL_2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

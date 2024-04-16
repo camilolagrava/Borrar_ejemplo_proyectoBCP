@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "pCj5ZPYifbwKg77Uhk98e44GDpN5gX48lgqeatR++4I=",
+  "Source": "Borrar_BCP_CL_2",
+  "BasePath": "_content/Borrar_BCP_CL_2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Borrar_BCP_CL_2\\wwwroot",
+      "Source": "Borrar_BCP_CL_2",
+      "ContentRoot": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_2\\Borrar_BCP_CL_2\\wwwroot\\",
+      "BasePath": "_content/Borrar_BCP_CL_2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_2\\Borrar_BCP_CL_2\\wwwroot\\Rotativa\\Windows\\wkhtmltoimage.exe",
+      "SourceId": "Borrar_BCP_CL_2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_2\\Borrar_BCP_CL_2\\wwwroot\\",
+      "BasePath": "_content/Borrar_BCP_CL_2",
+      "RelativePath": "Rotativa/Windows/wkhtmltoimage.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rotativa\\Windows\\wkhtmltoimage.exe"
+    },
+    {
+      "Identity": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_2\\Borrar_BCP_CL_2\\wwwroot\\Rotativa\\Windows\\wkhtmltopdf.exe",
+      "SourceId": "Borrar_BCP_CL_2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_2\\Borrar_BCP_CL_2\\wwwroot\\",
+      "BasePath": "_content/Borrar_BCP_CL_2",
+      "RelativePath": "Rotativa/Windows/wkhtmltopdf.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rotativa\\Windows\\wkhtmltopdf.exe"
+    }
+  ]
+}

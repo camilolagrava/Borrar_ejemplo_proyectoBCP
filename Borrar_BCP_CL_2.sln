@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borrar_BCP_CL_2", "Borrar_BCP_CL_2\Borrar_BCP_CL_2.csproj", "{A2CBF629-AB12-46B2-8D29-AE0D30E10960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2CBF629-AB12-46B2-8D29-AE0D30E10960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CBF629-AB12-46B2-8D29-AE0D30E10960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CBF629-AB12-46B2-8D29-AE0D30E10960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CBF629-AB12-46B2-8D29-AE0D30E10960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90B0EE82-8C42-440F-9E61-68E8DC6AD21B}
+	EndGlobalSection
+EndGlobal

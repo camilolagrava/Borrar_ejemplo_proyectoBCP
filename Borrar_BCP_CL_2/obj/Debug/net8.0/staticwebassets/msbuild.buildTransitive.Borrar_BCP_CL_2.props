@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Borrar_BCP_CL_2.props" />
+</Project>
